@@ -1,0 +1,13 @@
+https://github.com/andrewning/sortphotos
+https://github.com/walac/pyusb/blob/master/docs/tutorial.rst
+http://askubuntu.com/questions/309483/program-a-flash-drive-to-automatically-copy-a-specific-folder-when-plugged-in
+http://stackoverflow.com/questions/3397752/copy-multiple-files-in-python
+http://stackoverflow.com/questions/1868714/how-do-i-copy-an-entire-directory-of-files-into-an-existing-directory-using-pyth?noredirect=1&lq=1
+https://www.cnet.com/topics/laptops/best-laptops/ultraportables/
+https://www.cnet.com/products/lenovo-thinkpad-x1-yoga-oled/
+https://github.com/vipul-sharma20/document-scanner
+http://vipulsharma20.blogspot.de/2016/01/document-scanner-using-python-opencv.html
+http://mitchtech.net/raspberry-pi-opencv/
+http://robertcastle.com/2014/02/installing-opencv-on-a-raspberry-pi/
+http://adam-carter.com/posts/102
+
